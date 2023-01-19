@@ -7,3 +7,4 @@ Projects done for my Master's subjects  [🤖 High Performance Computing and Big
 [🌩 Grid Cloud Cluster](https://github.com/radRares1/GCCC) <br>
 [📅 Big Data Applications](https://github.com/radRares1/Big-Data-Applications) <br>
 [👓 Computer Vision](https://github.com/radRares1/Computer-Vision) <br>
+[🐿 GPU & Dist Architecture](https://github.com/radRares1/GPU-Dist-Architectures) <br>
